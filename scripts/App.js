@@ -1,1 +1,1 @@
-alert('Hello worlds of the universe!');
+alert('Hello worlds of the multiverse!');
